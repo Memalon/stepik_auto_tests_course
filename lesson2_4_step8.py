@@ -44,3 +44,6 @@ try:
 finally:
     time.sleep(5)
     browser.quit()
+
+# изменения для пробного коммита
+print('Test: Done!')
